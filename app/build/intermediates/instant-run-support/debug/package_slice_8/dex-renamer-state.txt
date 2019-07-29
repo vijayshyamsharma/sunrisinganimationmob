@@ -1,0 +1,4 @@
+#Thu Oct 25 20:10:15 IST 2018
+base.0=/home/praveen/AndroidStudioProjects/Sun_Rising_Tween_Animation/app/build/intermediates/transforms/dexMerger/debug/8
+path.0=classes.dex
+renamed.0=classes.dex

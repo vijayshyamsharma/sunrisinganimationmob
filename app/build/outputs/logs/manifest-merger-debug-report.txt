@@ -1,0 +1,157 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\android from bodacious it hub\notes\Sun_Rising_Tween_Animation\app\src\main\AndroidManifest.xml:2:1-25:12
+INJECTED from E:\android from bodacious it hub\notes\Sun_Rising_Tween_Animation\app\src\main\AndroidManifest.xml:2:1-25:12
+INJECTED from E:\android from bodacious it hub\notes\Sun_Rising_Tween_Animation\app\src\main\AndroidManifest.xml:2:1-25:12
+INJECTED from E:\android from bodacious it hub\notes\Sun_Rising_Tween_Animation\app\src\main\AndroidManifest.xml:2:1-25:12
+MERGED from [androidx.appcompat:appcompat:1.0.0] C:\Users\Mr.vijay\.gradle\caches\transforms-2\files-2.1\b388ba1fe21710d261802ebb0a9eb055\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\Mr.vijay\.gradle\caches\transforms-2\files-2.1\b77453a31bf65c15e896769e8e4dbda7\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\Mr.vijay\.gradle\caches\transforms-2\files-2.1\ce43bbe7b5416b457e1f29b2ba8aaa06\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\Mr.vijay\.gradle\caches\transforms-2\files-2.1\f3790c2ecc07bae4972bded2e9ceabdb\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Mr.vijay\.gradle\caches\transforms-2\files-2.1\e3367bc8855715466042385b901a8140\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Mr.vijay\.gradle\caches\transforms-2\files-2.1\f18c9e1ba096e63dc95ec3e8826f0162\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0] C:\Users\Mr.vijay\.gradle\caches\transforms-2\files-2.1\5222eb1533dcb3c15aa048de6c746743\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media:media:1.0.0] C:\Users\Mr.vijay\.gradle\caches\transforms-2\files-2.1\5c0192b60b34acfce9319a0bcd238c29\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Mr.vijay\.gradle\caches\transforms-2\files-2.1\fdb32db4720441b51ee900efbc5d0a5d\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Mr.vijay\.gradle\caches\transforms-2\files-2.1\7bfd1720c2b8a45988be5b6f5cbd1551\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\Mr.vijay\.gradle\caches\transforms-2\files-2.1\01f19fede98d14cdcc8c8abd6e7906f0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Mr.vijay\.gradle\caches\transforms-2\files-2.1\d9a8956cf38639072a9319e711881777\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Mr.vijay\.gradle\caches\transforms-2\files-2.1\94a9911783e215d2249ae86b7d8f63e4\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Mr.vijay\.gradle\caches\transforms-2\files-2.1\a5c4acb63d75dd1ca71f62e60abb41d5\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Mr.vijay\.gradle\caches\transforms-2\files-2.1\26d17f21c86c02d3d6bfb974b58b0974\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Mr.vijay\.gradle\caches\transforms-2\files-2.1\d9293b7c98c682d5da1b1ca64cd68604\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.0] C:\Users\Mr.vijay\.gradle\caches\transforms-2\files-2.1\686513c657de1cff01b807c88fbd4266\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\Mr.vijay\.gradle\caches\transforms-2\files-2.1\4061752a3eccc911c52d927d5c0a70ca\AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Mr.vijay\.gradle\caches\transforms-2\files-2.1\a921a13965d179cc160f0cf61c4aeff8\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\Mr.vijay\.gradle\caches\transforms-2\files-2.1\62df6090120265749dc81cef283ed8a7\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Mr.vijay\.gradle\caches\transforms-2\files-2.1\12273436cacc11c9d297c2ca3fc1c74e\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Mr.vijay\.gradle\caches\transforms-2\files-2.1\57481e464befbc95d4b32a6d37011071\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\Mr.vijay\.gradle\caches\transforms-2\files-2.1\8347ed92d2d07890836f42376828dd6b\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\Mr.vijay\.gradle\caches\transforms-2\files-2.1\ffcd2abb9a8ebcd6cbc56f7348058a27\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Mr.vijay\.gradle\caches\transforms-2\files-2.1\b35276428d345a61f757dde6f608fa0f\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Mr.vijay\.gradle\caches\transforms-2\files-2.1\b6533ab3752bed784d27a67fee27141b\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Mr.vijay\.gradle\caches\transforms-2\files-2.1\4bce83ee55b52711426bdcd5948b07d8\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Mr.vijay\.gradle\caches\transforms-2\files-2.1\649ef2b92df8fc8751d74c97294efc6e\AndroidManifest.xml:17:1-22:12
+INJECTED from E:\android from bodacious it hub\notes\Sun_Rising_Tween_Animation\app\src\main\AndroidManifest.xml:2:1-25:12
+INJECTED from E:\android from bodacious it hub\notes\Sun_Rising_Tween_Animation\app\src\main\AndroidManifest.xml:2:1-25:12
+INJECTED from E:\android from bodacious it hub\notes\Sun_Rising_Tween_Animation\app\src\main\AndroidManifest.xml:2:1-25:12
+	package
+		ADDED from E:\android from bodacious it hub\notes\Sun_Rising_Tween_Animation\app\src\main\AndroidManifest.xml:3:5-53
+		INJECTED from E:\android from bodacious it hub\notes\Sun_Rising_Tween_Animation\app\src\main\AndroidManifest.xml
+		INJECTED from E:\android from bodacious it hub\notes\Sun_Rising_Tween_Animation\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from E:\android from bodacious it hub\notes\Sun_Rising_Tween_Animation\app\src\main\AndroidManifest.xml:5:5-30
+		INJECTED from E:\android from bodacious it hub\notes\Sun_Rising_Tween_Animation\app\src\main\AndroidManifest.xml
+		INJECTED from E:\android from bodacious it hub\notes\Sun_Rising_Tween_Animation\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\android from bodacious it hub\notes\Sun_Rising_Tween_Animation\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from E:\android from bodacious it hub\notes\Sun_Rising_Tween_Animation\app\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from E:\android from bodacious it hub\notes\Sun_Rising_Tween_Animation\app\src\main\AndroidManifest.xml
+		INJECTED from E:\android from bodacious it hub\notes\Sun_Rising_Tween_Animation\app\src\main\AndroidManifest.xml
+application
+ADDED from E:\android from bodacious it hub\notes\Sun_Rising_Tween_Animation\app\src\main\AndroidManifest.xml:7:5-23:19
+MERGED from [androidx.core:core:1.0.0] C:\Users\Mr.vijay\.gradle\caches\transforms-2\files-2.1\686513c657de1cff01b807c88fbd4266\AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.0] C:\Users\Mr.vijay\.gradle\caches\transforms-2\files-2.1\686513c657de1cff01b807c88fbd4266\AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\Mr.vijay\.gradle\caches\transforms-2\files-2.1\4061752a3eccc911c52d927d5c0a70ca\AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\Mr.vijay\.gradle\caches\transforms-2\files-2.1\4061752a3eccc911c52d927d5c0a70ca\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.0] C:\Users\Mr.vijay\.gradle\caches\transforms-2\files-2.1\686513c657de1cff01b807c88fbd4266\AndroidManifest.xml:22:18-86
+	android:label
+		ADDED from E:\android from bodacious it hub\notes\Sun_Rising_Tween_Animation\app\src\main\AndroidManifest.xml:10:9-41
+	android:roundIcon
+		ADDED from E:\android from bodacious it hub\notes\Sun_Rising_Tween_Animation\app\src\main\AndroidManifest.xml:12:9-42
+	android:icon
+		ADDED from E:\android from bodacious it hub\notes\Sun_Rising_Tween_Animation\app\src\main\AndroidManifest.xml:9:9-37
+	android:allowBackup
+		ADDED from E:\android from bodacious it hub\notes\Sun_Rising_Tween_Animation\app\src\main\AndroidManifest.xml:8:9-35
+	android:theme
+		ADDED from E:\android from bodacious it hub\notes\Sun_Rising_Tween_Animation\app\src\main\AndroidManifest.xml:11:9-40
+activity#com.example.sun_rising_tween_animation.MainActivity
+ADDED from E:\android from bodacious it hub\notes\Sun_Rising_Tween_Animation\app\src\main\AndroidManifest.xml:13:9-22:20
+	android:screenOrientation
+		ADDED from E:\android from bodacious it hub\notes\Sun_Rising_Tween_Animation\app\src\main\AndroidManifest.xml:16:13-55
+	android:label
+		ADDED from E:\android from bodacious it hub\notes\Sun_Rising_Tween_Animation\app\src\main\AndroidManifest.xml:15:13-45
+	android:name
+		ADDED from E:\android from bodacious it hub\notes\Sun_Rising_Tween_Animation\app\src\main\AndroidManifest.xml:14:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from E:\android from bodacious it hub\notes\Sun_Rising_Tween_Animation\app\src\main\AndroidManifest.xml:17:13-21:29
+action#android.intent.action.MAIN
+ADDED from E:\android from bodacious it hub\notes\Sun_Rising_Tween_Animation\app\src\main\AndroidManifest.xml:18:17-69
+	android:name
+		ADDED from E:\android from bodacious it hub\notes\Sun_Rising_Tween_Animation\app\src\main\AndroidManifest.xml:18:25-66
+category#android.intent.category.LAUNCHER
+ADDED from E:\android from bodacious it hub\notes\Sun_Rising_Tween_Animation\app\src\main\AndroidManifest.xml:20:17-77
+	android:name
+		ADDED from E:\android from bodacious it hub\notes\Sun_Rising_Tween_Animation\app\src\main\AndroidManifest.xml:20:27-74
+uses-sdk
+INJECTED from E:\android from bodacious it hub\notes\Sun_Rising_Tween_Animation\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from E:\android from bodacious it hub\notes\Sun_Rising_Tween_Animation\app\src\main\AndroidManifest.xml
+INJECTED from E:\android from bodacious it hub\notes\Sun_Rising_Tween_Animation\app\src\main\AndroidManifest.xml
+MERGED from [androidx.appcompat:appcompat:1.0.0] C:\Users\Mr.vijay\.gradle\caches\transforms-2\files-2.1\b388ba1fe21710d261802ebb0a9eb055\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.0] C:\Users\Mr.vijay\.gradle\caches\transforms-2\files-2.1\b388ba1fe21710d261802ebb0a9eb055\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\Mr.vijay\.gradle\caches\transforms-2\files-2.1\b77453a31bf65c15e896769e8e4dbda7\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\Mr.vijay\.gradle\caches\transforms-2\files-2.1\b77453a31bf65c15e896769e8e4dbda7\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\Mr.vijay\.gradle\caches\transforms-2\files-2.1\ce43bbe7b5416b457e1f29b2ba8aaa06\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\Mr.vijay\.gradle\caches\transforms-2\files-2.1\ce43bbe7b5416b457e1f29b2ba8aaa06\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\Mr.vijay\.gradle\caches\transforms-2\files-2.1\f3790c2ecc07bae4972bded2e9ceabdb\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\Mr.vijay\.gradle\caches\transforms-2\files-2.1\f3790c2ecc07bae4972bded2e9ceabdb\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Mr.vijay\.gradle\caches\transforms-2\files-2.1\e3367bc8855715466042385b901a8140\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Mr.vijay\.gradle\caches\transforms-2\files-2.1\e3367bc8855715466042385b901a8140\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Mr.vijay\.gradle\caches\transforms-2\files-2.1\f18c9e1ba096e63dc95ec3e8826f0162\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Mr.vijay\.gradle\caches\transforms-2\files-2.1\f18c9e1ba096e63dc95ec3e8826f0162\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0] C:\Users\Mr.vijay\.gradle\caches\transforms-2\files-2.1\5222eb1533dcb3c15aa048de6c746743\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0] C:\Users\Mr.vijay\.gradle\caches\transforms-2\files-2.1\5222eb1533dcb3c15aa048de6c746743\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] C:\Users\Mr.vijay\.gradle\caches\transforms-2\files-2.1\5c0192b60b34acfce9319a0bcd238c29\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] C:\Users\Mr.vijay\.gradle\caches\transforms-2\files-2.1\5c0192b60b34acfce9319a0bcd238c29\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Mr.vijay\.gradle\caches\transforms-2\files-2.1\fdb32db4720441b51ee900efbc5d0a5d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Mr.vijay\.gradle\caches\transforms-2\files-2.1\fdb32db4720441b51ee900efbc5d0a5d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Mr.vijay\.gradle\caches\transforms-2\files-2.1\7bfd1720c2b8a45988be5b6f5cbd1551\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Mr.vijay\.gradle\caches\transforms-2\files-2.1\7bfd1720c2b8a45988be5b6f5cbd1551\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\Mr.vijay\.gradle\caches\transforms-2\files-2.1\01f19fede98d14cdcc8c8abd6e7906f0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\Mr.vijay\.gradle\caches\transforms-2\files-2.1\01f19fede98d14cdcc8c8abd6e7906f0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Mr.vijay\.gradle\caches\transforms-2\files-2.1\d9a8956cf38639072a9319e711881777\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Mr.vijay\.gradle\caches\transforms-2\files-2.1\d9a8956cf38639072a9319e711881777\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Mr.vijay\.gradle\caches\transforms-2\files-2.1\94a9911783e215d2249ae86b7d8f63e4\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Mr.vijay\.gradle\caches\transforms-2\files-2.1\94a9911783e215d2249ae86b7d8f63e4\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Mr.vijay\.gradle\caches\transforms-2\files-2.1\a5c4acb63d75dd1ca71f62e60abb41d5\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Mr.vijay\.gradle\caches\transforms-2\files-2.1\a5c4acb63d75dd1ca71f62e60abb41d5\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Mr.vijay\.gradle\caches\transforms-2\files-2.1\26d17f21c86c02d3d6bfb974b58b0974\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Mr.vijay\.gradle\caches\transforms-2\files-2.1\26d17f21c86c02d3d6bfb974b58b0974\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Mr.vijay\.gradle\caches\transforms-2\files-2.1\d9293b7c98c682d5da1b1ca64cd68604\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Mr.vijay\.gradle\caches\transforms-2\files-2.1\d9293b7c98c682d5da1b1ca64cd68604\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.0] C:\Users\Mr.vijay\.gradle\caches\transforms-2\files-2.1\686513c657de1cff01b807c88fbd4266\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.0] C:\Users\Mr.vijay\.gradle\caches\transforms-2\files-2.1\686513c657de1cff01b807c88fbd4266\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\Mr.vijay\.gradle\caches\transforms-2\files-2.1\4061752a3eccc911c52d927d5c0a70ca\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\Mr.vijay\.gradle\caches\transforms-2\files-2.1\4061752a3eccc911c52d927d5c0a70ca\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Mr.vijay\.gradle\caches\transforms-2\files-2.1\a921a13965d179cc160f0cf61c4aeff8\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Mr.vijay\.gradle\caches\transforms-2\files-2.1\a921a13965d179cc160f0cf61c4aeff8\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\Mr.vijay\.gradle\caches\transforms-2\files-2.1\62df6090120265749dc81cef283ed8a7\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\Mr.vijay\.gradle\caches\transforms-2\files-2.1\62df6090120265749dc81cef283ed8a7\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Mr.vijay\.gradle\caches\transforms-2\files-2.1\12273436cacc11c9d297c2ca3fc1c74e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Mr.vijay\.gradle\caches\transforms-2\files-2.1\12273436cacc11c9d297c2ca3fc1c74e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Mr.vijay\.gradle\caches\transforms-2\files-2.1\57481e464befbc95d4b32a6d37011071\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Mr.vijay\.gradle\caches\transforms-2\files-2.1\57481e464befbc95d4b32a6d37011071\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Mr.vijay\.gradle\caches\transforms-2\files-2.1\8347ed92d2d07890836f42376828dd6b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Mr.vijay\.gradle\caches\transforms-2\files-2.1\8347ed92d2d07890836f42376828dd6b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\Mr.vijay\.gradle\caches\transforms-2\files-2.1\ffcd2abb9a8ebcd6cbc56f7348058a27\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\Mr.vijay\.gradle\caches\transforms-2\files-2.1\ffcd2abb9a8ebcd6cbc56f7348058a27\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Mr.vijay\.gradle\caches\transforms-2\files-2.1\b35276428d345a61f757dde6f608fa0f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Mr.vijay\.gradle\caches\transforms-2\files-2.1\b35276428d345a61f757dde6f608fa0f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Mr.vijay\.gradle\caches\transforms-2\files-2.1\b6533ab3752bed784d27a67fee27141b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Mr.vijay\.gradle\caches\transforms-2\files-2.1\b6533ab3752bed784d27a67fee27141b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Mr.vijay\.gradle\caches\transforms-2\files-2.1\4bce83ee55b52711426bdcd5948b07d8\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Mr.vijay\.gradle\caches\transforms-2\files-2.1\4bce83ee55b52711426bdcd5948b07d8\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Mr.vijay\.gradle\caches\transforms-2\files-2.1\649ef2b92df8fc8751d74c97294efc6e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Mr.vijay\.gradle\caches\transforms-2\files-2.1\649ef2b92df8fc8751d74c97294efc6e\AndroidManifest.xml:20:5-44
+INJECTED from E:\android from bodacious it hub\notes\Sun_Rising_Tween_Animation\app\src\main\AndroidManifest.xml
+INJECTED from E:\android from bodacious it hub\notes\Sun_Rising_Tween_Animation\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from E:\android from bodacious it hub\notes\Sun_Rising_Tween_Animation\app\src\main\AndroidManifest.xml
+		ADDED from E:\android from bodacious it hub\notes\Sun_Rising_Tween_Animation\app\src\main\AndroidManifest.xml
+		INJECTED from E:\android from bodacious it hub\notes\Sun_Rising_Tween_Animation\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from E:\android from bodacious it hub\notes\Sun_Rising_Tween_Animation\app\src\main\AndroidManifest.xml
+		ADDED from E:\android from bodacious it hub\notes\Sun_Rising_Tween_Animation\app\src\main\AndroidManifest.xml
+		INJECTED from E:\android from bodacious it hub\notes\Sun_Rising_Tween_Animation\app\src\main\AndroidManifest.xml

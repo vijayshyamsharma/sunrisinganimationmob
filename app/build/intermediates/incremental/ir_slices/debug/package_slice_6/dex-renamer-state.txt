@@ -1,0 +1,4 @@
+#Mon Jul 15 19:24:33 IST 2019
+base.0=E\:\\android from bodacious it hub\\notes\\Sun_Rising_Tween_Animation\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\6
+path.0=classes.dex
+renamed.0=classes.dex

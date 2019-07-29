@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android" >
+    <item>
+        <shape
+            xmlns:android="http://schemas.android.com/apk/res/android"
+            android:dither="true"
+            android:shape="oval" >
+
+            <gradient
+                android:endColor="#ffff9000"
+                android:gradientRadius="150"
+                android:startColor="#ffffcc00"
+                android:type="radial"
+                android:useLevel="false" />
+
+            <size
+                android:height="150dp"
+                android:width="150dp" />
+
+
+        </shape>
+    </item>
+
+    <item
+        android:bottom="100dp"
+        android:left="45dp"
+        android:right="115dp"
+        android:top="50dp">
+        <shape
+            xmlns:android="http://schemas.android.com/apk/res/android"
+            android:shape="oval" >
+
+            <size android:height="25dp"
+                android:width="25dp"/>
+
+            <gradient android:startColor="#fff"
+                android:endColor="#ff5"/>
+
+        </shape>
+    </item>
+
+
+    <item
+        android:bottom="100dp"
+        android:left="115dp"
+        android:right="45dp"
+        android:top="50dp">
+        <shape
+            xmlns:android="http://schemas.android.com/apk/res/android"
+            android:shape="oval" >
+
+            <size android:height="25dp"
+                android:width="25dp"/>
+
+            <gradient android:startColor="#fff"
+                android:endColor="#ff5"/>
+
+        </shape>
+    </item>
+
+
+    <item
+        android:bottom="50dp"
+        android:left="50dp"
+        android:right="50dp"
+        android:top="100dp">
+        <shape
+            xmlns:android="http://schemas.android.com/apk/res/android"
+            android:shape="oval" >
+
+            <size android:height="10dp"
+                android:width="25dp"/>
+
+            <gradient android:startColor="#ff54"
+                android:endColor="#ff5"/>
+
+        </shape>
+    </item>
+
+</layer-list>
